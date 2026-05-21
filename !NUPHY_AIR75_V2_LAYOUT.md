@@ -32,5 +32,4 @@ And you can use `nuphy_air75_v2.layout.default.json` directly
 
 Because VIA, Nuphy Air V2 not support Fn lcok, via: https://x.com/nuphystudio/status/1717718691440480481, Only way is change the layout.
 
-You can use my customized layout directly: `nuphy_air75_v2.layout.fn-lock.json`
-
+You can use my customized layout `nuphy_air75_v2.layout.fn-lock.json` directly.
