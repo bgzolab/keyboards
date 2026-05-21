@@ -1,6 +1,11 @@
 # Nuphy Air75 V2 Config
 
-## If you connect Keyboard with wire mode, and upload json, then nothing happened
+1. VIA: https://usevia.app
+2. Official JSON file: https://nuphy.com/pages/json-files-for-nuphy-keyboards
+3. Official Guide: https://nuphy.com/pages/via-usage-guide-for-nuphy-keyboards
+4. Manual File: https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Air75_V2_Quick_Guide.pdf?v=1696498123
+
+## Connect but nothing happened
 
 Check your productId via: 
 
@@ -13,9 +18,9 @@ And I get `0x3265` and edit this value on `nuphy-air75-v2-via3.json`, you can us
 via: https://www.reddit.com/r/NuPhy/comments/1g4ejrn/nuphy_air_96_v2_not_connecting_on_via/
 
 
-## If you change a lot of thing with keyboard, but want to go back default
+## Want to reset layout
 
-If you never backup your layout, you only way is reset it by pressing `fn + [`
+If you change a lot of thing with keyboard, but want to go back default, If you never backup your layout, you only way is reset it by pressing `fn + [`
 
 And you can use `nuphy_air75_v2.layout.default.json` directly
 
@@ -25,10 +30,3 @@ And you can use `nuphy_air75_v2.layout.default.json` directly
 Because VIA, Nuphy Air V2 not support Fn lcok, via: https://x.com/nuphystudio/status/1717718691440480481, Only way is change the layout.
 
 You can use my customized layout `nuphy_air75_v2.layout.fn-lock.json` directly.
-
-## Links
-
-1. VIA: https://usevia.app
-2. Official JSON file: https://nuphy.com/pages/json-files-for-nuphy-keyboards
-3. Official Guide: https://nuphy.com/pages/via-usage-guide-for-nuphy-keyboards
-4. Manual File: https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Air75_V2_Quick_Guide.pdf?v=1696498123
