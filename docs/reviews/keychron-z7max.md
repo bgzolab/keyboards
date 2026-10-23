@@ -1,19 +1,6 @@
----
-title: 买了把 Keychron Z7Max，又卖了
-aliases:
-  - 买了把 Keychron Z7Max，又卖了
-created: 2025-11-29T08:55:31
-modified: 2026-04-11T18:50:20
-published: 2025-11-29T08:55:31
-tags:
-  - consume/sailed
-  - public
-  - writing/consume
----
-
 # Keychron Z7Max
 
-> 已卖
+> 已卖，400 入手，380 卖
 
 ## 挑挑拣拣
 

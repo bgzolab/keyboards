@@ -1,9 +1,8 @@
 # Nuphy Air75 V2 Config
 
-1. VIA: https://usevia.app
-2. Official JSON file: https://nuphy.com/pages/json-files-for-nuphy-keyboards
-3. Official Guide: https://nuphy.com/pages/via-usage-guide-for-nuphy-keyboards
-4. Manual File: https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Air75_V2_Quick_Guide.pdf?v=1696498123
+1. Official JSON file: https://nuphy.com/pages/json-files-for-nuphy-keyboards
+2. Official Guide: https://nuphy.com/pages/via-usage-guide-for-nuphy-keyboards
+3. Manual File: https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Air75_V2_Quick_Guide.pdf?v=1696498123
 
 ## Connect but nothing happened
 

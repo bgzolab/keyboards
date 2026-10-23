@@ -1,16 +1,3 @@
----
-title: Nuphy Air V2
-aliases: Nuphy Air V2
-created: 2025-03-22T14:12:23
-modified: 2026-05-31T00:08:11
-description: 咸鱼
-cover:
-price: 550
-tags: consume/using
-type: 3c
-wikipedia:
----
-
 # Nuphy Air V2
 
 [[nuphy-air96-v1|Nuphy Air96 V1]] 太重太长了，方向键不好识别，最终出了换 75 布局。
