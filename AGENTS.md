@@ -5,7 +5,7 @@ Personal keyboard notes and VIA profiles. There is no application code, package 
 ## Repository map
 
 - `README.md`: personal keyboard history/preferences in Chinese, not a project index or setup guide. Preserve its opinionated tone.
-- `docs/reviews/<model>.md`: one review per keyboard, mostly Chinese. They use Obsidian `[[wikilinks]]`, `[^footnotes]`, and status blockquotes such as `> 已卖，...`. Purchase history, prices, and opinions are intentional content, not fluff.
+- `docs/reviews/<model>.md`: one review per keyboard, mostly Chinese. They use standard Markdown relative links such as `[K380](./logi-k380.md)`, `[^footnotes]`, and status blockquotes such as `> 已卖，...`. Purchase history, prices, and opinions are intentional content, not fluff.
 - `nuphy-air75-v2/README.md`: VIA setup, reset/Fn-lock instructions, and USB-ID troubleshooting for the Air75 V2.
 - `nuphy-air75-v2/via3.json`: VIA v3 device definition (6×17 matrix, 84 visible keys, custom keycodes).
 - `nuphy-air75-v2/layout/default.json`: saved VIA keymap with 8 layers × 102 entries and 16 macro slots.
@@ -23,7 +23,7 @@ There is no review index to update; `README.md` is not one.
 - `fn-lock.json` is not only a top-row swap: layer 2 also differs. Diff both layouts before syncing edits.
 - `nuphy-air75-v2/README.md` still cites pre-reorganization filenames (`nuphy-air75-v2-via3.json`, `nuphy_air75_v2.layout.default.json`, `nuphy_air75_v2.layout.fn-lock.json`). Current paths are `via3.json`, `layout/default.json`, and `layout/fn-lock.json`; correct those references if you touch the README.
 - Preserve indentation: `via3.json` is tab-indented, while saved layouts use 2 spaces.
-- The wikilink `[[20251129-keychron-z7max|Keychron Z7Max]]` in `docs/reviews/nuphy-air75-v3.md` does not resolve; the actual file is `docs/reviews/keychron-z7max.md`. Do not copy it as an example.
+- Review files link to each other with standard Markdown relative paths, e.g. `[Keychron Z7Max](./keychron-z7max.md)`. Link the first mention of another reviewed keyboard. Do not use Obsidian `[[wikilinks]]` or repo-root paths such as `docs/reviews/keychron-z7max.md`; the latter resolve incorrectly from inside `docs/reviews/`.
 
 ## Verification
 

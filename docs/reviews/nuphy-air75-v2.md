@@ -1,6 +1,6 @@
 # Nuphy Air V2
 
-[[nuphy-air96-v1|Nuphy Air96 V1]] 太重太长了，方向键不好识别，最终出了换 75 布局。
+[Nuphy Air96 V1](./nuphy-air96-v1.md) 太重太长了，方向键不好识别，最终出了换 75 布局。
 
 ## 快捷键
 
@@ -9,7 +9,7 @@
 
 因为 VIA 的支持，不支持 FN Lock
 
-![](https://x.com/nuphystudio/status/1717718691440480481)
+[Nuphy 官方说明](https://x.com/nuphystudio/status/1717718691440480481)
 
 ## VIA 改键
 
