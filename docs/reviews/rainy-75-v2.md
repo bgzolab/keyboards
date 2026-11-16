@@ -30,3 +30,8 @@ https://www.bilibili.com/video/BV19Gs56oEgv/
 https://github.com/bgzolab/hammerspoon-config
 
 唯独问题 2.2, 3 是它固件的问题，我一点办法都没有
+
+
+## Reference
+
+1. [恰好在 Rainy75 V2 发布之际聊聊 V1 以及 WOB 的售后](https://www.chiphell.com/thread-2915012-1-1.html)
