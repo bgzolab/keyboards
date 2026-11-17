@@ -1,8 +1,13 @@
 # Logi K400 Plus
 
-> 已卖，69 买，25出，已坏
+> 已卖，2025年2月22日 69 买，25出，已坏
 
-买来就是给小主机用的。
+## 动机
+
+买来就是给小主机用的，目标就是他的触控板；当然还有备选答案，因为小众所以没有选择：
+
+- 微软 All in one Media Keyboard
+- 雷柏 K2800
 
 ## 优点
 
@@ -10,7 +15,10 @@
 
 ## 缺点
 
-缺点也很明显，做工非常垃圾，比 [K380](./logi-k380.md) 还要垃圾，塑料感非常强，按键也容易按错，手感更是没有，全靠那块触控板撑着。
+用起来有点头疼：
+
+1. FN 无法锁定，半高的功能键总是会误触，Windows 锁定 必须下载 Option；
+2. 做工非常垃圾，比 [K380](./logi-k380.md) 还要垃圾，塑料感非常强，按键也容易按错，手感更是没有，全靠那块触控板撑着。
 
 ## 后话
 
@@ -22,3 +30,10 @@
 
 > 可能是老化？
 
+## References
+
+- 操作手册： https://www.manua.ls/logitech/k400-plus/manual?p=2
+- Option 下载: https://www.logitech.com/zh-cn/software/options.html
+- 参考：https://www.jianshu.com/p/10f01dedc697
+
+[^windows-dump-tool]: http://xhslink.com/a/5eUk3uk9oOu5
