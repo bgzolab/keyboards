@@ -45,6 +45,22 @@
     - 闪红灯 => 关闭
     - 下适用
 
+## ISSUE: Nuphy Air95 Keyboard Function not works.
+
+```shell
+FN+X+F
+```
+
+via: [Nuphy Air75 - Function Lock](https://www.reddit.com/r/MechanicalKeyboards/comments/rlgy6c/nuphy_air75_function_lock/jw3d23q/)
+
+另一个方案是：
+
+```shell
+echo 0 | sudo tee /sys/module/hid_apple/parameters/fnmode
+```
+
+via: https://www.hashbangcode.com/article/turning-or-fn-mode-ubuntu-linux
+
 ## References
 
 1. 官方 https://nuphy.com/products/air96-wireless-mechanical-keyboard
