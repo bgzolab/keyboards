@@ -25,16 +25,26 @@ via: https://gist.github.com/bgzo/bff8e6c2581b5dd9d2c7bb6dd58aaba7
 - 官方 https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Air75_V2_Quick_Guide.pdf
 - 第三方 https://manuals.plus/zh-CN/nuphy/air75-mechanical-keyboard-manual
 
-## 无线不稳定
+## 优点
+
+拿到手的第一感觉就是：75 比 96 真是好用多了，即使是牺牲小键盘但依然值得；
+
+1. 盲打定位方向键；
+2. 直接放在笔记本键盘上使用
+3. 通勤方便
+
+所以到手后直接把 96 的键盘挂在了二手市场卖掉了。
+
+## 缺点
+
+### 2.4G 不稳定
 
 我在 Linux 上总是遇到打字打字就断了的情况，这在 Mac 和 Windows 都出现不了，我觉得应该是 Linux 的问题，甚至在同一个机器的不同系统也有这个问题，除了这个，我还找到了社区的驱动
 
 https://github.com/adi4086/qmk_firmware via https://www.reddit.com/r/NuPhy/comments/1ffr2te
 
----
+### 打入冷宫
 
-卖家在交易成功后，就删除了商品链接，这让我有点不爽，有种自己再次上当的感觉；
+官方可能已经正式放弃了这把键盘，库存清空，轴体清空，配件也不卖了。
 
-我觉得下次可以当一个摸摸党，如果从京东/淘宝上买回来的东西真的喜欢，权衡二手市场价格，如有必要，退掉重来便是； 
-
-拿到手的第一感觉就是，75 相比 96 真是好用多了，盲打定位方向键太方便了，即使是牺牲小键盘但依然值得，所以到手后直接把 96 的键盘挂在了二手市场，但是行情比较差就是了
+CTMD
